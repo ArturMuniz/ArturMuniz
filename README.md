@@ -1,4 +1,4 @@
-Hi 👋 My name is Artur Muniz
+ My name is Artur Muniz
 ============================
 
 Sou estudante do ifto paraiso do TO
