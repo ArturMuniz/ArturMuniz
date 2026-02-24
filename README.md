@@ -1,6 +1,6 @@
 # 👨‍💻 Artur Muniz
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFTO – Campus Paraíso do Tocantins  
+🎓 Estudante de Sistemas de Informação no IFTO – Campus Paraíso do Tocantins  
 💻 Professor de Informática e apaixonado por tecnologia  
 🚀 Interessado em desenvolvimento web, projetos digitais e inovação para jovens
 
