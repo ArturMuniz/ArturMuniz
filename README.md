@@ -1,22 +1,71 @@
- My name is Artur Muniz
-============================
+# 👨‍💻 Artur Muniz
 
-Sou estudante do ifto paraiso do TO
------------------------------------
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFTO – Campus Paraíso do Tocantins  
+💻 Professor de Informática e apaixonado por tecnologia  
+🚀 Interessado em desenvolvimento web, projetos digitais e inovação para jovens
 
-* 🌍  I'm based in De brasilia
+---
 
-### Skills
+## 🌎 Sobre mim
+
+- 📍 Brasil – Tocantins  
+- 🎓 Estudante do IFTO  
+- 👨‍🏫 Professor de Informática  
+- 🧠 Atualmente estudando **JavaScript, Node.js, HTML, CSS e PHP**  
+- 💡 Criando projetos web e sistemas simples para resolver problemas reais
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+</a>
+
 </p>
 
+---
 
-### Socials
+## 🌐 Redes sociais
 
-<p align="left"> <a href="https://www.github.com/ArturMuniz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/NizArtur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+
+<a href="https://github.com/ArturMuniz">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/>
+</a>
+
+<a href="https://twitter.com/NizArtur">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="35"/>
+</a>
+
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturMuniz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMuniz&layout=compact&theme=tokyonight)
+
+---
+
+💬 *“Tecnologia é a ferramenta que transforma ideias em realidade.”*
