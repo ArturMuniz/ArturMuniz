@@ -56,15 +56,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="35"/>
 </a>
 
+<a href="https://www.linkedin.com/in/artur-muniz-492880327/">
+<img src="https://seeklogo.com/vector-logo/157910/linkedin" width="35"/>
+</a>
 </p>
-
----
-
-## 📊 Estatísticas GitHub
-
-![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturMuniz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMuniz&layout=compact&theme=tokyonight)
 
 ---
 
