@@ -57,7 +57,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/artur-muniz-492880327/">
-<img src="https://seeklogo.com/vector-logo/157910/linkedin" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 </p>
 
